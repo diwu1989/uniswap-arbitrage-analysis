@@ -94,7 +94,7 @@ Now we have the parameters for virtual pool A->C, consider the path A->B->C->A, 
 Now we have the parameters $E_a, E_b$ for this virtual pool from A->A constructed from the given path, we have:
 $$
 \begin{align}
-& {\Delta_a}' = \frac{E_ar\Delta_a}{E_0+r\Delta_a} \\
+& {\Delta_a}' = \frac{E_br\Delta_a}{E_a+r\Delta_a} \\
 & f = {\Delta_a}' - \Delta_a
 \end{align}
 $$
@@ -163,10 +163,3 @@ Uniswap arbitrage is a competitive area, you may find it hard to make profit, bu
 Contact: ccyanxyz@gmail.com
 
 Donation: 0x0af66d3641640755878F0d72A610FC2EEA856Cd6
-
-
-
-
-
-
-
